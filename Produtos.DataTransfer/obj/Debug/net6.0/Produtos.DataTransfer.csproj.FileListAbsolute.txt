@@ -1,0 +1,12 @@
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\bin\Debug\net6.0\Produtos.DataTransfer.deps.json
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\bin\Debug\net6.0\Produtos.DataTransfer.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\bin\Debug\net6.0\ref\Produtos.DataTransfer.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\bin\Debug\net6.0\Produtos.DataTransfer.pdb
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.AssemblyInfo.cs
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\ref\Produtos.DataTransfer.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.DataTransfer\obj\Debug\net6.0\Produtos.DataTransfer.pdb
