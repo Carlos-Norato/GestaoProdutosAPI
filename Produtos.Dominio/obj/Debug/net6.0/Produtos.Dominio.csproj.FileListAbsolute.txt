@@ -1,0 +1,12 @@
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\bin\Debug\net6.0\Produtos.Dominio.deps.json
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\bin\Debug\net6.0\Produtos.Dominio.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\bin\Debug\net6.0\ref\Produtos.Dominio.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\bin\Debug\net6.0\Produtos.Dominio.pdb
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.csproj.AssemblyReference.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.AssemblyInfoInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.AssemblyInfo.cs
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\ref\Produtos.Dominio.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Dominio\obj\Debug\net6.0\Produtos.Dominio.pdb

@@ -1,0 +1,15 @@
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.csproj.AssemblyReference.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.AssemblyInfoInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.AssemblyInfo.cs
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\Produtos.Infra.deps.json
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\Produtos.Infra.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\ref\Produtos.Infra.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\Produtos.Infra.pdb
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\Produtos.Dominio.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\bin\Debug\net6.0\Produtos.Dominio.pdb
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.csproj.CopyComplete
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\ref\Produtos.Infra.dll
+C:\Users\carlos.norato\Documents\C#GestaoProdutos\Produtos.Infra\obj\Debug\net6.0\Produtos.Infra.pdb
